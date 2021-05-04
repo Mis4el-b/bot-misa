@@ -1,24 +1,24 @@
 
 <P align="center">
-    <img alt="Im Lexa" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
+    <img alt="Im bot-misa" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
 
 </P>
 
 <p align="center">
-<a href="https://github.com/mrfzvx12"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Mis4el-b"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
 </p>
 <p align="center">
-<img src="https://gpvc.arturio.dev/mrfzvx12" />
-<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?label=Followers&style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?&style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mrfzvx12/termux-whatsapp-bot?style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watching&style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/mrfzvx12/termux-whatsapp-bot?logo=github&style=social"></a>
+<img src="https://github.com/Mis4el-b/bot-misa" />
+<a href="https://github.com/Mis4el-b/bot-misa"><img title="Author" src="https://img.shields.io/badge/𝐁𝐎𝐓 𝐃𝐄 𝐌𝐈𝐒𝐀𝐄𝐋-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Mis4el-b/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?label=Followers&style=social"></a>
+<a href="https://github.com/Mis4el-b/bot-misa"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?&style=social"></a>
+<a href="https://github.com/Mis4el-b/bot-misa/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mrfzvx12/termux-whatsapp-bot?style=social"></a>
+<a href="https://github.com/Mis4el-b/bot-misa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watching&style=social"></a>
+<a href="https://github.com/Mis4el-b/bot-misa/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/mrfzvx12/termux-whatsapp-bot?logo=github&style=social"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/repo-size/mrfzvx12/im-lexa-v2?label=Repo%20size&style=plastic"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/search/mrfzvx12/termux-whatsapp-bot/termux-whatsapp-bot?label=Search&style=plastic"></a>
+<a href="https://github.com/Mis4el-b/bot-misa"><img src="https://img.shields.io/github/repo-size/mrfzvx12/im-lexa-v2?label=Repo%20size&style=plastic"></a>
+<a href="https://github.com/Mis4el-b/bot-misa"><img src="https://img.shields.io/github/search/mrfzvx12/termux-whatsapp-bot/termux-whatsapp-bot?label=Search&style=plastic"></a>
 </p>
 
 # Lest begin's
@@ -27,10 +27,10 @@
 * Semua fitur work tergantung api dan apikey
 
 ### Tes bot
-Sebelum menginstal Lexa V.2 coba dulu botnya disini
+Sebelum menginstal bot-misa coba dulu botnya disini
 <p>
-<a href="https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 1-30302f?style=flat&logo=whatsapp" /></a>
-<a href="https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 2-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://chat.whatsapp.com/Id1YYretfUrCTtsVj505CG" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 1-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://chat.whatsapp.com/Id1YYretfUrCTtsVj505CG" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 2-30302f?style=flat&logo=whatsapp" /></a>
 </p>
 
 ### Tools
